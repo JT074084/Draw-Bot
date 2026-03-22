@@ -1,0 +1,7 @@
+Materials List
+- 9g Servos: https://a.co/d/029sizpx
+- Breadboards: https://a.co/d/07yDQTC5
+- ESP32: https://a.co/d/04IdkcdU
+- Jumper Cables: https://a.co/d/09EMHUiv
+- Push Buttons: https://a.co/d/0e1az2xc
+- Bearings: https://a.co/d/02JDvbdu (You don't need to get the 100 pack, but these are the right size)
