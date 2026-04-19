@@ -1,0 +1,17 @@
+Materials List
+- Breadboards: https://a.co/d/07yDQTC5
+- ESP32: https://a.co/d/04IdkcdU
+- Jumper Cables: https://a.co/d/09EMHUiv
+- Push Buttons: https://a.co/d/0e1az2xc
+- Small Bearings: https://a.co/d/02JDvbdu (You don't need to get the 100 pack, but these are the right size)
+- Larger Bearings: https://a.co/d/0d7i4qe4
+- Stepper Motors: https://a.co/d/00CzddfN (I pulled mine off of my old Ender3, so these are not the exact same; however, they should be the same size. You might have to modify L1 where it connects to the shaft)
+- Power Supply: https://a.co/d/0cy2Xukl
+- AC Power Cord Cable: https://a.co/d/0dvI3YDH
+- Rocker Switch: https://a.co/d/08eXCJAe
+- Limit Switches: https://a.co/d/0ba2nB1q
+- Buck Converters: https://a.co/d/0464kfeK
+- Motor Drivers: https://a.co/d/06shWjNk
+- Magnetic Encoders: https://a.co/d/00uFV5pL
+- IO Expander Board: https://a.co/d/040cC4YZ
+- LEDs: https://a.co/d/02KN58AU
