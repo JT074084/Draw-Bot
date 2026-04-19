@@ -1,3 +1,12 @@
 Links to websites I used:
 - Make Magazine: https://makezine.com/projects/learn-inverse-kinematics-with-a-robot-arm-drawbot/
 - Accel Stepper Library Documentation: https://www.airspayce.com/mikem/arduino/AccelStepper/index.html
+- AS5600 Magnetic Encoder Library Documentation: https://github.com/RobTillaart/AS5600/blob/master/examples/AS5600_demo_offset/AS5600_demo_offset.ino
+- PC8575 IO Expander Library Documentation: https://github.com/RobTillaart/PCF8575
+- Streamlit Documentation: https://docs.streamlit.io/get-started
+- Plotly Charts: https://plotly.com/python/basic-charts/
+
+Other links I found while trying to solve the inverse kinematics problem in V4.5:
+https://www.academia.edu/10259240/Kinematic_Analysis_of_Five_Bar_Mechanism_in_Industrial_Robotics
+https://github.com/manojsharma221/Robot-Sketcher-5-bar-parallel-manipulator-
+https://reprap.org/forum/read.php?185,490216,page=2
